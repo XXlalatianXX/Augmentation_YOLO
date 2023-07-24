@@ -9,3 +9,12 @@ Requirement
 easy to use
 
 Hope you are happy with this code ^_^
+
+
+Requirement
+
+numpy                         1.24.3
+
+opencv-python                 4.7.0.72
+
+pip                           22.3.1
